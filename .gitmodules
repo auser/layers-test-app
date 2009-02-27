@@ -13,3 +13,6 @@
 [submodule "deps/layers"]
 	path = deps/layers
 	url = git://github.com/auser/layers.git
+[submodule "deps/where"]
+	path = deps/where
+	url = git://github.com/auser/where.git

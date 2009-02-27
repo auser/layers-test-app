@@ -7,9 +7,6 @@
 [submodule "deps/whisper"]
 	path = deps/whisper
 	url = git://github.com/auser/whisper.git
-[submodule "chorderl"]
-	path = chorderl
-	url = git://github.com/jashmenn/chordjerl.git
 [submodule "deps/chordjerl"]
 	path = deps/chordjerl
 	url = git://github.com/jashmenn/chordjerl.git

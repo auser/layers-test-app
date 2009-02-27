@@ -12,7 +12,7 @@ test() ->
   
 start() ->    
 	layers:init(),
-	layers:add(converse, [{port, ?PORT}]),
+	layers:add(converse, [{port, 22002}]),
 	layers:add(whisper, []),
 	layers:add(where, []),
 	layers:add(layers_test_app, []),
